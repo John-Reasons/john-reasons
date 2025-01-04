@@ -1,3 +1,10 @@
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=John-Reasons&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="John-Reasons' Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-Reasons&theme=tokyonight&hide_border=true" alt="John-Reasons' Streak" height="165">
+  </p>
+</div>
+
 <!--
 ## Hi there 👋
 **John-Reasons/john-reasons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
