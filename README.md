@@ -5,6 +5,10 @@
   </p>
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=John-Reasons&style=for-the-badge&color=blueviolet" alt=""/>
+</div>
+
 <!--
 ## Hi there 👋
 **John-Reasons/john-reasons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
