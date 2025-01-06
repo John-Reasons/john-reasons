@@ -9,6 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=John-Reasons&style=flat&color=blueviolet" alt=""/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"/>
+
+</div>
+
 <!--
 Note: Add Socials: LinkedIn, Dev.to: https://dev.to/john_reasons
 ## Hi there 👋
