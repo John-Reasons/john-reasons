@@ -10,6 +10,7 @@
 </div>
 
 <!--
+Note: Add Socials: LinkedIn, Dev.to: https://dev.to/john_reasons
 ## Hi there 👋
 **John-Reasons/john-reasons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
