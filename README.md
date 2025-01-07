@@ -16,8 +16,13 @@
 
 </div>
 
+<div id="header" align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="Dev.to"/>
+</div>
+
 <!--
-Note: Add Socials: LinkedIn, Dev.to: https://dev.to/john_reasons
+Note: Add Socials: LinkedIn, Dev.to: https://dev.to/john_reasons Keybase.io:https://keybase.io/johnreasons
 ## Hi there 👋
 **John-Reasons/john-reasons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
