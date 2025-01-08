@@ -47,6 +47,7 @@ Keybase.io:https://keybase.io/johnreasons
 https://shields.io/badges
 https://github.com/inttter/md-badges
 
+https://github.com/antonkomarev/github-profile-views-counter
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
