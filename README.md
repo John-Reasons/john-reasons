@@ -43,6 +43,9 @@ Keybase.io:https://keybase.io/johnreasons
 [tayyabadev/README.md at main · tayyabadev/tayyabadev · GitHub](https://github.com/tayyabadev/tayyabadev/blob/main/README.md?plain=1)  
 [GitHub - anuraghazra/github-readme-stats: :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-additional-individual-stats)
 
+
+https://shields.io/badges
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
