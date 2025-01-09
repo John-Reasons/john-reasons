@@ -18,7 +18,7 @@
 
 <div id="header" align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="Dev.to"/>
+  <a href="https://dev.to/john_reasons" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="Dev.to"/></a>
 </div>
 
 <!--
