@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"/>
-
 </div>
 
 <div id="header" align="center">
@@ -28,8 +27,12 @@
 
 <!--
 Note: Add Socials:
-https://dev.to/john_reasons 
-Keybase.io:https://keybase.io/johnreasons
+- Linkedin
+
+##Badges
+https://shields.io/badges
+https://github.com/inttter/md-badges
+
 
 [GitHub - kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile](https://github.com/kautukkundan/Awesome-Profile-README-templates)  
 [GitHub - durgeshsamariya/awesome-github-profile-readme-templates: This repository contains best profile readme's for your reference.](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)  
@@ -48,17 +51,4 @@ Keybase.io:https://keybase.io/johnreasons
 [tayyabadev/README.md at main · tayyabadev/tayyabadev · GitHub](https://github.com/tayyabadev/tayyabadev/blob/main/README.md?plain=1)  
 [GitHub - anuraghazra/github-readme-stats: :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-additional-individual-stats)
 
-##Badges
-https://shields.io/badges
-https://github.com/inttter/md-badges
-
-https://github.com/antonkomarev/github-profile-views-counter
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 -->
