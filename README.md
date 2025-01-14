@@ -33,22 +33,4 @@ Note: Add Socials:
 https://shields.io/badges
 https://github.com/inttter/md-badges
 
-
-[GitHub - kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile](https://github.com/kautukkundan/Awesome-Profile-README-templates)  
-[GitHub - durgeshsamariya/awesome-github-profile-readme-templates: This repository contains best profile readme's for your reference.](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)  
-[Home](https://durgeshsamariya.github.io/awesome-github-profile-readme-templates/#/)  
-[GitHub - abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome GitHub Profile which updates in real time](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#code-mode-)  
-[GitHub - coderjojo/creative-profile-readme: A Collection of GitHub Profiles with awesome readme](https://github.com/coderjojo/creative-profile-readme)  
-[daria-stanilevici (Daria Stanilevici) · GitHub](https://github.com/daria-stanilevici)  
-[aaronedev (Aaron) · GitHub](https://github.com/aaronedev)  
-[aaronedev/README.md at main · aaronedev/aaronedev · GitHub](https://github.com/aaronedev/aaronedev/blob/main/README.md?plain=1)  
-[GitHub - KenanGain/KenanGain](https://github.com/KenanGain/KenanGain)  
-[MarieLynneBlock (Marie-Lynne Block) · GitHub](https://github.com/MarieLynneBlock)  
-[anafro (Anatoly Frolov) · GitHub](https://github.com/anafro)  
-[umenzi (Javier Paez Franco) · GitHub](https://github.com/umenzi)  
-[aroramrinaal (Mrinaal Arora) · GitHub](https://github.com/aroramrinaal)  
-[tayyabadev (Tayyaba Tabassum) · GitHub](https://github.com/tayyabadev)  
-[tayyabadev/README.md at main · tayyabadev/tayyabadev · GitHub](https://github.com/tayyabadev/tayyabadev/blob/main/README.md?plain=1)  
-[GitHub - anuraghazra/github-readme-stats: :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-additional-individual-stats)
-
 -->
