@@ -33,4 +33,9 @@ Note: Add Socials:
 https://shields.io/badges
 https://github.com/inttter/md-badges
 
+Todo List:
+- [ ] TBD 1
+- [ ] TBD 2
+- [ ] TBD 3
+
 -->
