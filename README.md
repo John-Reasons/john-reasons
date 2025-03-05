@@ -26,15 +26,7 @@
 </div>
 
 <!--
-Note: Add Socials:
-- Linkedin
-
 ##Badges
 https://shields.io/badges
 https://github.com/inttter/md-badges
-
-Todo List:
-- [ ] TBD 1
-- [ ] TBD 2.
-- [ ] TBD III 
 -->
